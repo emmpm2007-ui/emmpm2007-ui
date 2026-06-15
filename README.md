@@ -128,7 +128,7 @@ Soy estudiante de **Ingeniería en Desarrollo de Software** (3° semestre · Uni
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=emmpm2007-ui&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&icon_color=7C3AED&text_color=8892B0&count_private=true" alt="GitHub Stats"/>
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmpm2007-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=8892B0&langs_count=6" alt="Top Languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmpm2007-ui&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=06B6D4&text_color=8892B0&langs_count=6&cache_seconds=1800" alt="Top Languages"/>
 
 </div>
 
