@@ -21,7 +21,7 @@
 
 ## 👤 Sobre mí
 
-Soy estudiante de **Ingeniería en Desarrollo de Software** (3° semestre · Universidad TecMilenio) con experiencia práctica en Python, Java y desarrollo web full-stack. Me interesa especialmente la intersección entre **Inteligencia Artificial, Machine Learning y diseño de sistemas**, convirtiendo ideas en proyectos funcionales y bien estructurados.
+Soy estudiante de **Ingeniería en Desarrollo de Software** (Universidad TecMilenio) con experiencia práctica en Python, Java y desarrollo web full-stack. Me interesa especialmente la intersección entre **Inteligencia Artificial, Machine Learning y diseño de sistemas**, convirtiendo ideas en proyectos funcionales y bien estructurados.
 
 - 🎓 Materias de **POO · Estructuras de Datos · Algoritmos · Bases de Datos · Redes**
 - 🤖 Interesado en **ML aplicado, sistemas de recomendación y predicción con IA**
